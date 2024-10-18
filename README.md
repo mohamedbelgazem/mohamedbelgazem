@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Mohamed Belgazem
 
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/MohamedBelgazem.png" alt="TryHackMe" />
+</div>
+
 ## 🚀 About Me
 I'm a Computer Science Engineering student with a strong passion for cybersecurity.
 
