@@ -38,3 +38,8 @@ I'm a Computer Science Engineering student with a strong passion for cybersecuri
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows 10" alt="Windows 10" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
+
+## 📊 GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedbelgazem&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbelgazem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
